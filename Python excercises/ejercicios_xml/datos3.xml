@@ -1,0 +1,30 @@
+<Datos>
+	<Libro ejemplares="si" isbn="0-596-00128-2" orden="1">
+		<titulo>Python y XML</titulo>
+		<fecha>Diciembre 2001</fecha>
+		<autor>Pepito Perez</autor>
+	<Editorial>Anaya</Editorial></Libro>
+	<Libro ejemplares="si" isbn="0-596-15810-6" orden="2">
+		<titulo>Programacion avanzada de XML</titulo> 
+		<fecha>Octubre 2010</fecha>
+		<autor>Juan Garcia</autor>
+	<Editorial>Anaya</Editorial></Libro>
+	<Libro ejemplares="si" isbn="0-596-15808-4" orden="4">
+		<titulo>Python para moviles</titulo> 
+		<titulo>Edici&#195;&#179;n avanzada</titulo>
+		<fecha>Octubre 2009</fecha>
+		<autor>Pepito Perez</autor>
+	<Editorial>Anaya</Editorial></Libro>
+	<Libro ejemplares="si" isbn="0-596-00797-3" orden="5">
+		<titulo>R para estad&#195;&#173;stica</titulo> 
+		<fecha>Marzo 2005</fecha>
+		<autor>Juan</autor>
+		<autor>Pepe</autor>
+		<autor>Isabel</autor>
+	<Editorial>Anaya</Editorial></Libro>
+	<Libro ejemplares="si" isbn="0-596-10046-9" orden="6"> 
+		<titulo>Python en 100 paginas</titulo> 
+		<fecha>Julio 2006</fecha>
+		<autor>Julia Holms</autor>
+	<Editorial>Anaya</Editorial></Libro>
+</Datos>
